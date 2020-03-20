@@ -1,0 +1,43 @@
+.gelimg {
+    width: 100%;
+}
+
+.imgalt {
+    background-image: url(../images/01.JPG);
+}
+
+.shinkan {
+    padding: 10rem 0;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(22, 22, 22, 0.1)), color-stop(75%, rgba(22, 22, 22, 0.5)), to(#161616)), url("../img/bg-signup.jpg");
+  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.1) 0%, rgba(22, 22, 22, 0.5) 50%, #161616 100%), url("../images/feather.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+.photocre {
+    text-align: right;
+}
+
+.shinkan1 {
+    text-align: center;
+    font-size: 32px;
+    font-family: 'Varela Round';
+    color: white;
+}
+
+.ob {
+    text-align: center;
+    font-family: 'Varela Round';
+}
+
+.enso1 {
+    text-align: center;
+    font-family: 'Varela Round';
+}
+
+.enso2 {
+    text-align: center;
+    font-family: 'Varela Round';
+}
