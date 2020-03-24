@@ -1,6 +1,6 @@
 .activity {
 	text-align: center;
-	font-size: 100px;
+	font-size: 50px;
 	height: 100%;
 	width: 100%;
 	color: #5d627b;
@@ -41,4 +41,19 @@ textarea{
   border-radius:5px;
   padding: 30px;
   font-size: 15px;
+  vertical-align: top;
+  height: 5em;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+label {
+	display: inline-block;
+	text-align: right;
+}
+
+.conta {
+	text-align: center;
 }
