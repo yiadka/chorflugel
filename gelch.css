@@ -57,3 +57,17 @@ label {
 .conta {
 	text-align: center;
 }
+
+.emergency_title {
+	text-align: center;
+	font-family: YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "serif";
+}
+
+.emergency_body {
+	font-family: YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "serif";
+	text-align: center;
+}
+
+ol {
+	text-align: center;
+}
