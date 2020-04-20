@@ -71,3 +71,15 @@ label {
 ol {
 	text-align: center;
 }
+
+.emergency_concert_title {
+	text-align: center;
+	font-family: YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "serif";
+}
+
+.emergency_concert_body {
+	text-align: center;
+	font-family: YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "serif";
+	padding-left: 10px;
+	padding-right: 10px;
+}
